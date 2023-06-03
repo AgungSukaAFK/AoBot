@@ -1,0 +1,22 @@
+{
+  "name": "aobot-remake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chatgpt": "^5.1.2",
+    "node-fetch": "^3.3.1",
+    "node-gyp": "^9.3.1",
+    "prompt-sync": "^4.2.0",
+    "qrcode-terminal": "^0.12.0",
+    "shentai": "^2.0.7",
+    "whatsapp-web.js": "^1.19.5",
+    "youtube-mp3-downloader": "^0.7.11"
+  },
+  "type": "module"
+}
